@@ -15,10 +15,8 @@ main task in program we done:
   otherwise this program wont work properly
   
   output:
-(base) azaz@azaz:~/Desktop/C_project/Lucky_Winner$ gcc lucky_winner.c
-(base) azaz@azaz:~/Desktop/C_project/Lucky_Winner$ ls
-a.out  file.txt  lucky_winner.c
-(base) azaz@azaz:~/Desktop/C_project/Lucky_Winner$ ./a.out
+:~/Desktop/C_project/Lucky_Winner$ gcc lucky_winner.c
+:~/Desktop/C_project/Lucky_Winner$ ./a.out
 Total people in the list=10
 People in the list are
 1. azaz mohammad
@@ -35,8 +33,8 @@ People in the list are
 But Todays Lucky Winner is
 6. Aasif ali
 
-(base) azaz@azaz:~/Desktop/C_project/Lucky_Winner$ gcc lucky_winner.c
-(base) azaz@azaz:~/Desktop/C_project/Lucky_Winner$ ./a.out
+:~/Desktop/C_project/Lucky_Winner$ gcc lucky_winner.c
+:~/Desktop/C_project/Lucky_Winner$ ./a.out
 Total people in the list=10
 People in the list are
 1. azaz mohammad
@@ -53,7 +51,7 @@ People in the list are
 But Todays Lucky Winner is
 3. wahid raza
 
-(base) azaz@azaz:~/Desktop/C_project/Lucky_Winner$ ./a.out
+:~/Desktop/C_project/Lucky_Winner$ ./a.out
 Total people in the list=10
 People in the list are
 1. azaz mohammad
